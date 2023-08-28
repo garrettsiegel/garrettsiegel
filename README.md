@@ -1,5 +1,5 @@
-<h1 align="center">Hey! I'm Garrett Siegel</h1>
-<h3 align="center">Committed to Elevating User Experiences Through Innovative Frontend Development</h3>
+<h1>Hey! I'm Garrett Siegel</h1>
+<h3>Committed to Elevating User Experiences Through Innovative Frontend Development</h3>
 
 - 👨‍💻 My personal website is [garrettsiegel.com](garrettsiegel.com)
 
