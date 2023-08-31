@@ -1,9 +1,9 @@
 <h1>Hey! I'm Garrett Siegel</h1>
 <h3>Committed to Elevating User Experiences Through Innovative Frontend Development</h3>
 
-- 👨‍💻 My personal website is [garrettsiegel.com](garrettsiegel.com)
+- 👉 My personal website is [garrettsiegel.com](garrettsiegel.com)
 
-- 📫 How to reach me **garrett@submurgedcreative.com**
+- ✉️ How to reach me **garrett@submurgedcreative.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
