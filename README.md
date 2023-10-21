@@ -1,12 +1,13 @@
-### Hi, I'm Garrett Siegel 👋
+### 👋 Hi, I'm Garrett Siegel
 
 **Front-End Developer | Visual Designer**
 
-🌐 [garrettsiegel.com](https://garrettsiegel.com)
+🖥️ [garrettsiegel.com](https://garrettsiegel.com)
 
-📧 garrett@submurgedcreative.com
+✉️ garrett@submurgedcreative.com
 
 #### Connect:
 - [Codepen](https://codepen.io/garrettsiegel/pens/public)
 - [Instagram](https://instagram.com/garrett_siegel_)
 - [Behance](https://www.behance.net/gsiegel)
+- [Bluesky Social](https://bsky.app/profile/gsiegel.bsky.social)
