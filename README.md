@@ -1,13 +1,12 @@
-<h1>Hey! I'm Garrett Siegel</h1>
-<h3>Committed to Elevating User Experiences Through Innovative Frontend Development</h3>
+### Hi, I'm Garrett Siegel 👋
 
-- 👉 My personal website is <a href="https://garrettsiegel.com" target="_blank">garrettsiegel.com</a>
+**Front-End Developer | Visual Designer**
 
-- ✉️ How to reach me **garrett@submurgedcreative.com**
+🌐 [garrettsiegel.com](https://garrettsiegel.com)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/garrettsiegel/pens/public" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="garrettsiegel" height="30" width="40" /></a>
-<a href="https://instagram.com/garrett_siegel_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="garrett_siegel_" height="30" width="40" /></a>
-<a href="https://www.behance.net/gsiegel" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="gsiegel" height="30" width="40" /></a>
-</p>
+📧 garrett@submurgedcreative.com
+
+#### Connect:
+- [Codepen](https://codepen.io/garrettsiegel/pens/public)
+- [Instagram](https://instagram.com/garrett_siegel_)
+- [Behance](https://www.behance.net/gsiegel)
