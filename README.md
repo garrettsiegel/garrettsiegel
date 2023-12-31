@@ -11,5 +11,5 @@
 - [LinkedIn](https://www.linkedin.com/in/garrettsiegel)
 - [Instagram](https://instagram.com/garrett_siegel_)
 - [Behance](https://www.behance.net/gsiegel)
-- [X/Twitter](https://twitter.com/garrettDoesCode)
+- [X / Twitter](https://twitter.com/garrettDoesCode)
 - [Bluesky Social](https://bsky.app/profile/gsiegel.bsky.social)
