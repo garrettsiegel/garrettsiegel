@@ -4,7 +4,7 @@
 
 🖥️ [garrettsiegel.com](https://garrettsiegel.com)
 
-✉️ garrett@submurgedcreative.com
+✉️ garrett@garrettsiegel.com
 
 #### Connect:
 - [Codepen](https://codepen.io/garrettsiegel/pens/public)
