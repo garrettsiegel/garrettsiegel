@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Garrett Siegel
 
-**Front-End Developer | Visual Designer**
+**Creative Developer**
 
 🖥️ [garrettsiegel.com](https://garrettsiegel.com)
 
