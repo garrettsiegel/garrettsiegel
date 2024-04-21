@@ -2,8 +2,6 @@
 
 **Creative Developer**
 
-🖥️ [garrettsiegel.com](https://garrettsiegel.com)
-
 ✉️ garrett@garrettsiegel.com
 
 #### Connect:
