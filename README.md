@@ -3,6 +3,7 @@
 **Creative Web Developer & Visual Designer**
 
 - [Website](https://www.garrettsiegel.com)
+-
 ✉️ garrett@garrettsiegel.com
 
 #### Connect:
