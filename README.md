@@ -3,8 +3,7 @@
 **Creative Web Developer & Visual Designer**
 
 - [Website](https://www.garrettsiegel.com)
--
-✉️ garrett@garrettsiegel.com
+- ✉️ garrett@garrettsiegel.com
 
 #### Connect:
 - [Codepen](https://codepen.io/garrettsiegel/pens/public)
